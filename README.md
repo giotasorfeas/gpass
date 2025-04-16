@@ -4,13 +4,13 @@ A simple C++ terminal application that evaluates the strength of a password and 
 
 ***********************************************************
 
-Feature	                        |   Points
-Length ≥ 8	                    |     +1
-Length ≥ 12 (bonus)	            |     +1
-Contains lowercase letters	    |     +1
-Contains uppercase letters	    |     +1
-Contains digits	                |     +1
-Contains special characters	    |     +1
+Feature:  
+Length ≥ 8 ......................... +1  
+Length ≥ 12 (bonus) ................ +1  
+Contains lowercase letters ......... +1  
+Contains uppercase letters ......... +1  
+Contains digits .................... +1  
+Contains special characters ........ +1  
 
 Max Score: 6
 
